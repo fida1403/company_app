@@ -1,0 +1,22 @@
+.image{
+    height:400px;
+    width:400px;
+    background-image:url("https://media-exp1.licdn.com/dms/image/C4D22AQHE7HQ4b5CmmA/feedshare-shrink_800/0/1653894801450?e=2147483647&v=beta&t=wBJC1rt9M9L2qCvkNtAWessdsdWcb8ZLXJWcIzcZSA8");
+    background-size: cover;
+    margin-left:30%;
+    border:0.1em solid grey;
+}
+
+p{
+    margin-top:50px;
+    text-indent:5em;
+    padding:40px;
+    justify-content: center;
+}
+
+h1{
+    font-size:50px;
+}
+.main{
+    padding:25px;
+}

@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top:70px;
+}
+.one{
+    height:400px;
+    width:400px;
+    background-image:url("https://media-exp1.licdn.com/dms/image/C4D22AQHcFH1DZehYzw/feedshare-shrink_800/0/1655819961684?e=2147483647&v=beta&t=uBqvYedrFx8DJjfx-cqWgISYoXzTvbs9_FiEfgJSzo0");
+    background-size: cover;
+
+}
+
+.two {
+     height:400px;
+     width:400px;
+     background-image:url("https://www.gadgeon.com/web/images/album/1_4_1560517886_11.jpg");
+     background-size: cover;
+     margin-left:50px;
+}
+
+.three{
+    height:400px;
+    width:400px;
+    background-image:url("https://www.gadgeon.com/web/images/album/4_4_1560518352_6.jpg");
+    background-size: cover;
+    margin-left:50px;
+}
+h1{
+    color:gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{
+    color:rgb(225, 221, 165);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    margin-top:50px;
+    text-indent:5em;
+    padding:40px;
+    justify-content: center;
+}
